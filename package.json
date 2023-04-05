@@ -1,0 +1,17 @@
+{
+  "name": "currencyconversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hubspot/api-client": "^8.9.0",
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
